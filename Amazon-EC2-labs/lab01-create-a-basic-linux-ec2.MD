@@ -1,7 +1,7 @@
 ## Lab01 Configure and Launch a simple Linux EC2 instance
 
 1.	Login to AWS console
-• 	Select EC2 service
+2.	Select EC2 service
 •	Go to Instances
 •	Click on Launch Instance
 •	Launch an instance
