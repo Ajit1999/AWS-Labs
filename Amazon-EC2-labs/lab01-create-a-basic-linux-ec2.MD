@@ -6,12 +6,12 @@
 4.	Click on Launch Instance
 5.	Launch an instance
 	*	Instance name
-		ChooseAMI - Amazon Linux (free tier)
-		Instance type – t2.micro
-		Select key pair
-		Network setting – Create security group
-			 Allow SSH, HTTP, HTTPS traffic
-		Launch Instance
+	*	ChooseAMI - Amazon Linux (free tier)
+	*	Instance type – t2.micro
+	*	Select key pair
+	*	Network setting – Create security group
+			*	Allow SSH, HTTP, HTTPS traffic
+	*	Launch Instance
 		
 6.	back to EC2 dashboard and select the Instance.
 7.	Verify Instance state – Running & Status check – 2/2 checks passed
