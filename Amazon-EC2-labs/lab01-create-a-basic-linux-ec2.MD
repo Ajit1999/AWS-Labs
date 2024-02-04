@@ -10,7 +10,7 @@
 		Instance type – t2.micro
 		Select key pair
 		Network setting – Create security group
-			Allow SSH, HTTP, HTTPS traffic
+			 Allow SSH, HTTP, HTTPS traffic
 		Launch Instance
 		
 •	back to EC2 dashboard and select the Instance.
