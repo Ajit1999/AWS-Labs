@@ -10,7 +10,8 @@
 	*	Instance type – t2.micro
 	*	Select key pair
 	*	Network setting – Create security group
-			_	Allow SSH, HTTP, HTTPS traffic
+			Allow SSH, HTTP, HTTPS traffic
+			Sub-nested bullet etc
 	*	Launch Instance
 		
 6.	back to EC2 dashboard and select the Instance.
