@@ -5,7 +5,7 @@
 3.	Go to Instances
 4.	Click on Launch Instance
 5.	Launch an instance
-		* Instance name
+*		Instance name
 		ChooseAMI - Amazon Linux (free tier)
 		Instance type – t2.micro
 		Select key pair
