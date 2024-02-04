@@ -2,9 +2,9 @@
 
 1.	Login to AWS console
 2.	Select EC2 service
-•	Go to Instances
-•	Click on Launch Instance
-•	Launch an instance
+3.	Go to Instances
+4.	Click on Launch Instance
+5.	Launch an instance
 		Instance name
 		ChooseAMI - Amazon Linux (free tier)
 		Instance type – t2.micro
@@ -13,10 +13,10 @@
 			 Allow SSH, HTTP, HTTPS traffic
 		Launch Instance
 		
-•	back to EC2 dashboard and select the Instance.
-•	Verify Instance state – Running & Status check – 2/2 checks passed
-•	Click on Connect
-•	Use Aws direct Connect or ssh client eg. MobaXterm to connect with Instance
+6.	back to EC2 dashboard and select the Instance.
+7.	Verify Instance state – Running & Status check – 2/2 checks passed
+8.	Click on Connect
+9.	Use Aws direct Connect or ssh client eg. MobaXterm to connect with Instance
 
 You should now be logged into the EC2 linux instance!
 
